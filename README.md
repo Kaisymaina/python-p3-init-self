@@ -339,7 +339,7 @@ Fork and clone the lab and run the tests with `pytest -x`.
 
 ### 1. `Dog.__init__` with Name and Breed defaulting to "Mutt"
 
-Define a `Dog` class in `lib/dog.py`. In the class, define an `__init__`
+Define a `Dog` class in `lib/dog.py`. In the class, define an `__init__` 
 method that accepts an argument for the dog's name. That argument should be
 stored within a `self.name` attribute.
 
